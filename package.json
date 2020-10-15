@@ -10,12 +10,12 @@
     "generate": "dotenv prisma generate"
   },
   "dependencies": {
-    "@prisma/cli": "^2.6.1",
-    "@prisma/client": "^2.6.1",
+    "@prisma/cli": "^2.9.0",
+    "@prisma/client": "^2.9.0",
     "dotenv": "^8.2.0",
-    "dotenv-cli": "^3.2.0",
-    "next": "9.5.3",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "dotenv-cli": "^4.0.0",
+    "next": "9.5.5",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
   }
 }
